@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYkBzwq/zDbpAJO3PDGUP9PliHR0IvScU8OW0TSamqY38Pd9DBgmMegxYRbNx0D+grRkZ8Cn+EzovUGEk8NeEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\algis\\source\\repos\\C#_PirmaUžduotis_IgnasValiukas\\C#_PirmaUžduotis_IgnasValiukas\\C#_PirmaUžduotis_IgnasValiukas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\algis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\algis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\algis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\algis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
